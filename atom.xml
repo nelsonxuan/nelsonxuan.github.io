@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nelson&#39;s Notebook</title>
   
-  <subtitle>There&#39;s nothing I could say that you haven&#39;t heard.</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
