@@ -1,0 +1,31 @@
+{
+  "name": "hexo-theme-pln",
+  "version": "1.0.0",
+  "description": "a plain, text-friendly Hexo theme 一个纯文字友好的Hexo主题   ![index](/screenShots/ver1.0-index.jpg) ![tags](/screenShots/ver1.0-tags.jpg) ![article](/screenShots/ver1.0-article.jpg) ![dropdown](/screenShots/ver1.0-dropdown.jpg) *screenshots capcured at 2016-05-14, ver1.0* *** # Install Execute the following command under your `hexo` folder.",
+  "main": "",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-rename": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compiler-scss": "gulp compiler-scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonxuan/hexo-theme-pln.git"
+  },
+  "author": "nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonxuan/hexo-theme-pln/issues"
+  },
+  "homepage": "https://github.com/nelsonxuan/hexo-theme-pln#readme"
+}
